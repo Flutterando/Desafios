@@ -1,0 +1,27 @@
+[submodule "list_animation"]
+	path = list_animation
+	url = https://github.com/davidsdearaujo/list_animation
+[submodule "switcher_login"]
+	path = switcher_login
+	url = https://github.com/davidsdearaujo/switcher_login
+[submodule "Chat-UX-Flutter"]
+	path = Chat-UX-Flutter
+	url = https://github.com/davidsdearaujo/Chat-UX-Flutter
+[submodule "desafio_delivery"]
+	path = desafio_delivery
+	url = https://github.com/davidsdearaujo/desafio_delivery
+[submodule "saldo_screen"]
+	path = saldo_screen
+	url = https://github.com/davidsdearaujo/saldo_screen
+[submodule "itau-screen"]
+	path = itau-screen
+	url = https://github.com/davidsdearaujo/itau-screen
+[submodule "netflix-screen"]
+	path = netflix-screen
+	url = https://github.com/davidsdearaujo/netflix-screen
+[submodule "OLX-Screen-Flutter-"]
+	path = OLX-Screen-Flutter-
+	url = https://github.com/davidsdearaujo/OLX-Screen-Flutter-
+[submodule "tim_beta_drawer_ux"]
+	path = tim_beta_drawer_ux
+	url = https://github.com/davidsdearaujo/tim_beta_drawer_ux
