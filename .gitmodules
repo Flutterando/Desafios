@@ -25,3 +25,6 @@
 [submodule "tim_beta_drawer_ux"]
 	path = tim_beta_drawer_ux
 	url = https://github.com/davidsdearaujo/tim_beta_drawer_ux
+[submodule "dechamps_game"]
+	path = dechamps_game
+	url = https://github.com/Flutterando/dechamps_game
